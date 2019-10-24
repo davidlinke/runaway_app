@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-	baseURL: 'http://localhost:3005'
+	baseURL: 'http://linkehome.davidlinke.com:3005'
 });
